@@ -6,6 +6,6 @@ namespace Translat_to_float
 {
     class RinNumber
     {
-        
+          
     }
 }

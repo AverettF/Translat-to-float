@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,9 +6,6 @@ namespace Translat_to_float
 {
     class RinNumber
     {
-//<<<<<<< HEAD
-          
-//=======
         private enum NumberRim
         {
             I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000
@@ -61,9 +58,8 @@ namespace Translat_to_float
                 {
                     Console.Write((NumberRim)zero);
                 }
-                //hel
+                Console.WriteLine();
             }
         }
-//>>>>>>> b1
     }
 }
